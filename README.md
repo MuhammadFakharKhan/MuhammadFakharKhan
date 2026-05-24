@@ -1,87 +1,171 @@
-# 👋 Hi, I'm Muhammad Fakhar Ullah Khan! 🚀
+<h1 align="center">Hi 👋, I'm Muhammad Fakhar Ullah Khan</h1>
+<h3 align="center">Full Stack & Agentic AI Developer from Pakistan 🇵🇰</h3>
 
-💻 **Web Developer & Graphic Designer**
+<p align="center">
+Building AI-powered applications, voice agents, and scalable web platforms using modern technologies.
+</p>
 
-📍 **Based in Karachi, Pakistan - Available for Remote/Freelance Work**
+---
 
-## 🔹 Profile
-Motivated web developer with expertise in HTML, CSS, TypeScript, and Next.js, complemented by a strong foundation in graphic design and AI prompt engineering. Seeking to leverage technical skills and creative problem-solving to build innovative, user-friendly web solutions in a dynamic team environment.
+## 🚀 About Me
 
-✔️ #WebDeveloper #GraphicDesigner #NextJS #TypeScript #PromptEngineering
+- 🔭 Currently building **AI Voice Agents & Full Stack Applications**
+- 🌱 Learning advanced **Agentic AI Systems, Automation & Backend Architecture**
+- 💡 Passionate about **LLMs, Prompt Engineering, AI Automation, and Modern Web Development**
+- 💬 Ask me about:
+  - Next.js
+  - TypeScript
+  - FastAPI
+  - OpenAI SDK
+  - Prompt Engineering
+  - Authentication & APIs
+- ⚡ Fun fact: I love turning AI ideas into real working products quickly.
 
-## 🛠️ Skills
-- HTML & CSS
-- TypeScript
-- Python
-- Next.js
-- Adobe Photoshop
-- Adobe Illustrator
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🤖 AI & Automation
 - Prompt Engineering
-- Canva
+- AI Voice Agents
+- LLM Integrations
+- AI Workflow Automation
+- API Integrations
+- Autonomous AI Systems
 
-## 📚 Education
-### 🔹 Agentic & Robotic AI Engineer (Ongoing)
-Governor House Sindh, Karachi  
-2024 – Present  
-Gained hands-on experience in front-end and back-end development.
+---
 
-### 🔹 DAE in Computer Information Technology
-Government Monotechnic Institute, Karachi  
-2021 – 2023  
-A Grade  
-Focused on programming fundamentals and software development.
+# 💼 Experience
 
-### 🔹 Intermediate (Pre-Medical)
-Government Dehli College, Karachi  
-2019  
-B Grade
+## 🧠 LLM Intern — Disrupt Startup
+**Duration:** 4 Months
 
-### 🔹 Matriculation (Science)
-Federal Secondary School, Karachi  
-2016  
-A Grade
+- Built AI voice agents with SIM-based calling functionality
+- Integrated LLMs into real-world AI applications
+- Automated backend workflows and database operations
+- Worked on prompt engineering and AI system design
 
-## 💼 Work Experience
-### 🔹 Math and Computer Science Teacher
-Baitusalam School, Karachi  
-2022 – 2025  
-- Taught mathematics and computer science to 6th and 7th-grade students, improving class engagement through interactive lessons.
+---
 
-### 🔹 Freelance Graphic Designer & Web Developer
-Remote  
-2021 – 2023  
-- Designed 10+ logos, brochures, and social media graphics for small businesses using Adobe Photoshop and Illustrator.  
-- Collaborated with clients to refine project requirements, delivering all projects on time.
+# 🚀 Featured Projects
 
-### 🔹 Cashier
-AL Aziz Autos, Karachi  
-2018 – 2021  
-- Managed daily transactions and inventory records for a motorcycle spare parts shop, ensuring 100% accuracy in financial reporting.
+## 🛒 E-Commerce Web Application
+### Tech Stack:
+Next.js • TypeScript • Tailwind CSS
 
-## 🚀 Projects
-### 🔹 E-Commerce Website (Freelance)
-- Developed a fully functional e-commerce platform using Next.js, TypeScript, and Tailwind CSS, featuring product listings and payment integration.
+### Features:
+- User authentication
+- Product management dashboard
+- Responsive modern UI
+- Full-stack architecture
 
-### 🔹 Personal Portfolio Website
-- Designed and deployed a responsive portfolio site showcasing web and graphic design projects using HTML, CSS, and Next.js.  
-- Portfolio Link: [Add your link here](https://yourportfolio.com)
+🔗 Live Demo:
+https://nextjs-milestone3-proj-ecom-cn6q.vercel.app/
 
-## 🌍 Languages
-- English
-- Urdu
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&layout=compact)
+## 🎙️ Uplift AI Urdu Voice Agent
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false)
+Real-time Urdu AI voice assistant using AI speech models.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact)
+### Features:
+- Voice-to-voice AI interaction
+- Urdu speech generation
+- Real-time responses
+- AI conversational system
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+### Tech Used:
+- Uplift AI API
+- AI Voice Models
+- TypeScript
+- APIs
 
-## 📬 Let's Connect!
-📩 Email: [fk8201610@gmail.com](mailto:fk8201610@gmail.com)  
-☎️ Phone: [+923353610778](tel:+923353610778)
+🔗 Live Demo:
+https://face-detection-tool-2ubo.vercel.app/
+
+---
+
+# 📚 Education
+
+## 🎓 Certified Agentic AI & Robotics Engineering (CAARE)
+**Governor Sindh IT Program**  
+2024 – Present
+
+Focused on:
+- AI Agents
+- Robotics
+- Software Engineering
+- Networking
+- Databases
+- Backend Systems
+
+---
+
+## 🎓 Diploma in Associate Engineering (CIT)
+**Govt Monotechnic Institute**  
+2021 – 2024
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: **fk8201610@gmail.com**
+
+💼 LinkedIn:  
+https://linkedin.com/in/your-link
+
+🌐 Portfolio:  
+https://nextjs-project-2-pptcss.vercel.app/
+
+🐙 GitHub:  
+https://github.com/MuhammadFakharKhan
+
+---
+
+# ✨ Current Goals
+
+- Building production-level AI agents
+- Improving backend architecture skills
+- Contributing to open source
+- Mastering scalable AI systems
+- Exploring autonomous workflows
+
+---
+
+<p align="center">
+  🚀 Always learning. Always building.
+</p>
 
 ## 🛠️ Technologies That I Know 👨🏻‍💻
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
